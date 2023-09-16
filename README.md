@@ -3,7 +3,7 @@
 
 # Hi there, I'm Karthik 👋
 
-# GSI GLOBAL SPORTS | FOUNDATION DAY - Website Clone
+# GSF GLOBAL SPORTS | FOUNDATION DAY - Website Clone
 
 
 
