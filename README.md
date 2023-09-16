@@ -31,6 +31,9 @@ https://github.com/Karthik7013/GSF-Website-Clone/assets/113322353/d1a3645b-dbe7-
 - open folder with any Editor.
 - open the index.html.
 - open with Live Server Extension.
+  
+##
+<h1 align="center">🤝 Thank You !</h1>
 
 
 
