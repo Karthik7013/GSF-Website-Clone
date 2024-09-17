@@ -4,7 +4,4 @@ x[0].onload = () => {
     one.classList.add("show");
     let two = document.getElementById("two");
     two.classList.add("show");
-
-
-
 }
