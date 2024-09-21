@@ -6,3 +6,4 @@ x[0].onload = () => {
     two.classList.add("show");
 }
 console.log('karthik added this changes')
+console.log('bhargave added this changes');
