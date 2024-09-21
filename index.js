@@ -5,3 +5,4 @@ x[0].onload = () => {
     let two = document.getElementById("two");
     two.classList.add("show");
 }
+console.log('karthik added this changes')
