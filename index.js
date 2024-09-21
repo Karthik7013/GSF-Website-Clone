@@ -5,4 +5,3 @@ x[0].onload = () => {
     let two = document.getElementById("two");
     two.classList.add("show");
 }
-console.log('this is fe-3');
