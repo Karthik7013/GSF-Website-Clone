@@ -7,4 +7,4 @@ x[0].onload = () => {
 }
 console.log('karthik added this changes')
 console.log('bhargave added this changes');
-console.log('bhaskar added this changes day2');
+console.log('bhaskar added this changes');
